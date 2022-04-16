@@ -1,0 +1,18 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.grad-pic {
+    width: 300px; 
+    height: 200px;
+    background-image: url(grad-pic.jpg);
+}
+

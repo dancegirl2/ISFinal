@@ -1,0 +1,22 @@
+body {
+    background-color: beige;
+}
+
+p {
+    color: rgba(10, 9, 9, 0.911);
+}
+
+h2, h3 {
+    color: rgb(90, 87, 87);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
